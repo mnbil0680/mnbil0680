@@ -4,6 +4,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4500&pause=1000&color=FE428E&center=true&vCenter=true&width=490&lines=I'm+Mohamed+Nabil;Software+Engineer+;Backend+.NET+developer" alt="Typing SVG" /></a>
 </h1>
 
+![Profile Views](https://komarev.com/ghpvc/?username=mnbil0680&abbreviated=trueh)
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Building full-stack web applications using ASP.NET Core,  and modern front-end technologies.<br><br>👯 I’m looking to collaborate on  <br>Open-source projects, web platforms, and real-world applications related to backend, APIs, and system design.<br><br>🤝 I’m looking for help with  <br>System architecture decisions, scalability best practices, and improving code quality in large projects.<br><br>🌱 I’m currently learning  <br>Advanced ASP.NET Core, software architecture, cloud fundamentals, and backend performance optimization.<br><br>💬 Ask me about  <br>C#, ASP.NET Core, SQL Server, data structures, Git/GitHub, and full-stack development.<br><br>⚡ Fun fact  <br>I enjoy turning complex technical concepts into simple explanations and teaching others what I learn.<br>
 
